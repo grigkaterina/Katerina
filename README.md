@@ -1,4 +1,3 @@
 # Katerina
 ## Grig
-**inclined**
-**underlined**
+
